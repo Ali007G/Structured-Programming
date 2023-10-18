@@ -1,1 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    printf("    Name     : Golam Ali\n");
+    printf("    Door No  : 104,3\n");
+    printf("    City,Pin : Cumilla,3500");
 
+    return 0;
+}
