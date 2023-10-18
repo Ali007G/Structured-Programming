@@ -1,6 +1,5 @@
 # Structured-Programming
-<p> C Programming </p> <br>
-
+<p> C Programming </p>
 <h4><b> C Programming Beginner </b></h4>
 Here i am solved 45+ problems in beginner level some problems.<br>
 Anyone who is beginner of C programming can start, practice this and solved this problem. </br>
