@@ -10,7 +10,6 @@ Anyone who is beginner of C programming can start, practice this and solved this
 In the first year I was solved problems from <b> Book- PROGRAMMING IN 
 ANSI C by Balagurusami sixth edition. </b>
 <p><a href="https://drive.google.com/drive/folders/13Dm4W_MbbbfJWcrzT5hH0kjnaIk1r7jl?usp=sharing">Book</a></p>
-<br>
 1. Chapter 01, almost solved all exercise problems. Page-20. <br>
 2. Chapter 01, almost solved all exercise problems. Page-50.
 </p>
